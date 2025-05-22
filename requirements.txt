@@ -1,0 +1,10 @@
+paddleocr
+paddlepaddle
+openai
+langchain
+faiss-cpu
+PyPDF2
+pdf2image
+streamlit
+tiktoken
+sqlalchemy
