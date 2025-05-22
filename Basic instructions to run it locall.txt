@@ -1,0 +1,22 @@
+Basic instructions to run it locally
+
+Step 1: Install dependencies:
+pip install -r requirements.txt    
+
+Step 2: Run the pipeline to process the PDF:
+python run_pipeline.py
+
+Step 3: Launch Streamlit app:
+streamlit run app.py
+
+Step 4: Open Link on local host:
+Local URL: http://localhost:8501
+Network URL: http://192.168.1.11:8501
+
+Step 5: Here some Questions you can  ask :
+What was the EBITDA in Q1 FY24?
+How did PAT margin change YoY?
+What is the cash & cash equivalents?
+What did the company say about employee cost?
+How has operating margin evolved year over year?
+
